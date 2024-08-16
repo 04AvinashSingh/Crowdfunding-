@@ -24,8 +24,5 @@ Backend smart contract language for implementing business logic on the blockchai
 ### Thirdweb: 
 Utilized for interaction with the Hedera testnet network and deployment of smart contracts.
 
-## Contributing
-Contributions are welcome! Please fork this repository and create a pull request with your proposed changes.
-
 
 

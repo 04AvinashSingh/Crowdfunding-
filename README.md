@@ -29,8 +29,3 @@ Contributions are welcome! Please fork this repository and create a pull request
 
 
 
-### Create Campaign Page
-![create campaign](https://github.com/Ronak1257/Crowd-Funding/assets/130481625/7b850cb3-3628-40c2-9a46-c18e9e1644e9)
-
-### Campaign Detail Page
-![campaigns details](https://github.com/Ronak1257/Crowd-Funding/assets/130481625/248cd8e1-a91b-4212-958f-2800f4074b77)
